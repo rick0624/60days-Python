@@ -1,2 +1,2 @@
-# 60天Python馬拉松
+# Python
 資料科學
